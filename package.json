@@ -1,0 +1,32 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.28.5",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "fs": "0.0.1-security",
+    "html": "^1.0.0",
+    "jenkins": "^0.25.0",
+    "js-base64": "^2.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "ncp": "^2.0.0",
+    "octokit": "^1.0.0-hello-world",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1",
+    "url": "^0.11.0"
+  }
+}
